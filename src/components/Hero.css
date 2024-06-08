@@ -1,0 +1,8 @@
+.gradient-text{
+        @apply bg-gradient-to-r from-blue-500 via-blue-700 to-blue-900 bg-clip-text text-transparent;
+}
+
+
+
+/* "x-rapidapi-key": "1b45209e5emsh479cabef8187831p1c860fjsn4079afe17417",
+        "x-rapidapi-host": "article-extractor-and-summarizer.p.rapidapi.com", */
