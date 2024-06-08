@@ -12,7 +12,7 @@ const Hero = ({ isDarkMode, toggleDarkMode }) => {
             <button
               className="bg-blue-500 text-black px-2 py-1 rounded-full text-bold text-base mr-2"
               onClick={() =>
-                window.open("https://github.com/TidbitsJS/Summize", "_blank")
+                window.open("https://github.com/kunal158/ai-summarizer", "_blank")
               }
             >
               &nbsp;Github&nbsp;
